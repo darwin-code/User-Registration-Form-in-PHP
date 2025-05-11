@@ -1,0 +1,20 @@
+Nombre: Darwin Toapanta
+Email: andrestpaez15@gmail.com
+Descripción: Es alto y bello
+-----------------------------
+Nombre: Anderson
+Email: anderson12@gmail.com
+Descripción: Se parece al abogado
+-----------------------------
+Nombre: Karen
+Email: karen1324@gmail.com
+Descripción: Rubia y trabajadora
+-----------------------------
+Nombre: Luis
+Email: lusia@gmail.com
+Descripción: Ing da clases
+-----------------------------
+Nombre: Darwin
+Email: andrestpaez15@gmail.com
+Descripción: Soy alto
+-----------------------------
